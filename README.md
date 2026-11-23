@@ -1,4 +1,4 @@
- Hi, I'm Mani Mishra.
+ Hi, I'm Manibhaskar Mishra.
 
 I've spent close to 10 years working as a hardware & software support engineer, and lately I've started moving into data science and AI. I've gone through Python, data handling, machine learning, and deep learning, and next I'm planning to get into NLP, transformers, RAG, and AI agents.
 
